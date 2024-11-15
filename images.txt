@@ -3,4 +3,4 @@ gdy666/lucky
 syncthing/syncthing
 syncthing/relaysrv
 syncthing/discosrv
-devinme/video_tools
+video_tools
