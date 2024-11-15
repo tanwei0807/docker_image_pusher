@@ -1,4 +1,4 @@
 xhofe/alist:latest
 gdy666/lucky
-syncthing
+syncthing/syncthing
 
