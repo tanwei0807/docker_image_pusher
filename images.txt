@@ -1,4 +1,6 @@
 xhofe/alist:latest
 gdy666/lucky
 syncthing/syncthing
+syncthing/relaysrv
+syncthing/discosrv
 
